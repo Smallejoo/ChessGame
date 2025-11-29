@@ -1,6 +1,7 @@
 # Chess Game (C# WinForms)
+![2SidesPic]("https://github.com/user-attachments/assets/3be177dc-ceb4-42e2-b2ae-bbc6e9990775)
 
-
+"https://github.com/user-attachments/assets/3be177dc-ceb4-42e2-b2ae-bbc6e9990775
 
 ## Features
 - Full chess rules (legal moves, check, checkmate)
