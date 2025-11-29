@@ -1,6 +1,6 @@
 # Chess Game (C# WinForms)
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/acd8e839-cf4a-4eaa-ac57-873c15aca058" width="700">
+  <img src="https://github.com/user-attachments/assets/56d36f47-d675-4c8f-a785-1dd71be019b7" width="300">
 </p>
 
 
