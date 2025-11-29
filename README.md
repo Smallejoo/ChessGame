@@ -1,5 +1,7 @@
 # Chess Game (C# WinForms)
-![2SidesPic](https://github.com/user-attachments/assets/3be177dc-ceb4-42e2-b2ae-bbc6e9990775)
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/acd8e839-cf4a-4eaa-ac57-873c15aca058" width="700">
+</p>
 
 
 ## Features
