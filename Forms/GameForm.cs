@@ -27,7 +27,7 @@ namespace ChessGame
         private PieceColor _currentPlayer = PieceColor.White;
 
         //place holder 
-        private Point _selectedSquare = null;
+        private Point? _selectedSquare = null;
 
         //place holder 
         private HashSet<(int row, int col)> _legalMoves = new();

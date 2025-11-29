@@ -14,8 +14,8 @@ namespace Chess.Classes.FigureClasses
         public override Image GetImage()
         {
             return Color == PieceColor.White
-                ? Properties.Resources.RockWhite
-                : Properties.Resources.RockBlack;
+                ? Properties.Resources.FizerWhite
+                : Properties.Resources.FizerBlack;
         }
         public override int MaxSteps => 7;
 
